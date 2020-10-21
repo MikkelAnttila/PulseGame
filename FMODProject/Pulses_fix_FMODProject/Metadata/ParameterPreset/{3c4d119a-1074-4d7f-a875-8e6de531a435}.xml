@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{3c4d119a-1074-4d7f-a875-8e6de531a435}">
+		<property name="name">
+			<value>TempoShift</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bb18d51c-e0c5-4607-8daf-acea7d7b92d3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{00646c00-4388-4a18-9d91-86c121f44b59}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{00646c00-4388-4a18-9d91-86c121f44b59}">
+		<property name="minimum">
+			<value>-24</value>
+		</property>
+		<property name="maximum">
+			<value>24</value>
+		</property>
+		<property name="initialValue">
+			<value>-24</value>
+		</property>
+	</object>
+</objects>

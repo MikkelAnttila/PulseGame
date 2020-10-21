@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8533b31b-349c-406f-92c8-798a81328bc8}">
+		<property name="assetPath">
+			<value>TVC33 Church Piano.aif</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0510204081632653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6c9c5c1d-e813-49de-8a55-a19f459dbb7d}</destination>
+		</relationship>
+	</object>
+</objects>
